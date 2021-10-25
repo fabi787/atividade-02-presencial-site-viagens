@@ -1,0 +1,106 @@
+body{
+
+    background-color: chocolate;
+}
+
+
+.header{
+    background-color: #333;
+    text-align: center;
+    font-size: 25px;
+    color: azure;
+    border-radius: 20px;
+    font-style: italic;
+    
+}
+.logo{
+    color: chocolate;
+
+}
+.active{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-style:normal;
+    float:inline-start;
+    margin-left:5px;
+    margin-inline-end: 80px;
+    border-radius: 15px;
+    
+
+
+}
+.default{
+    text-decoration: none;
+    color: azure;
+    font-size: 25px;
+    font-style: normal;
+    margin-right: 5px;
+    border-radius: 15px;
+    
+    
+
+}
+a:hover{
+    transition: 0,5s;
+    background-color:aliceblue;
+    color: rgb(77, 89, 99);
+}
+.header-right{
+    width: auto;
+    height: 520px;
+    border-radius: 20px;
+    background-color:rgb(214, 184, 119)
+}
+.foto1{
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 15px;
+    float:inline-start;
+    
+    
+    
+}
+.foto2{
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    border-radius:10px ;
+    margin: 15px;
+    float:inline-start;
+    
+}
+.footer {
+    width: auto;
+    height: 100px;
+    background-color: #333;
+    border-radius: 15px;
+    list-style: none;
+}
+.footer ul li{
+    list-style: none;
+}
+.redes-sociais{ color:aliceblue;
+
+}
+
+.sub1{
+    color: aliceblue;
+    position: absolute;
+
+}
+.sub2{
+    color: aliceblue;
+}
+.texto{
+color: cornsilk;
+text-align:center;
+margin-top: 20px;
+
+
+}
+
+
+ 
